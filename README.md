@@ -1,2 +1,2 @@
-# Text-Adventure
-A text adventure game
+# Text-Based-Adventure
+A text based adventure game
